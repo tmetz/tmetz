@@ -5,7 +5,9 @@
 **Ask me about:**
 
 :sparkles: Supporting all the interesting things at GitHub
+
 :coffee: Projects I've worked on (see below!)
+
 :musical_note: Folk music
 
 **Get in touch:**
