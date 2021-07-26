@@ -9,7 +9,3 @@
 :coffee: Projects I've worked on (see below!)
 
 :musical_note: Folk music
-
-**Get in touch:**
-
-:email: Email me at [tammy@tammymetz.com](mailto:tammy@tammymetz.com)
